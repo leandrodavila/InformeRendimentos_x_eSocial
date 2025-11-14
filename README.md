@@ -1,4 +1,4 @@
-# Mapeamento do Informe de Rendimentos x Evento S-5002 do eSocial - GT-Piloto
+# Mapeamento do Informe de Rendimentos x Eventos S-5002 e S-2501 do eSocial - GT-Piloto
 
 ## Sobre o Projeto
 
