@@ -257,7 +257,7 @@ Este documento foi construído pela empresas de sofware participantes do GT-Pilo
 
 ## 6 - RENDIMENTOS RECEBIDOS ACUMULADAMENTE - Art. 12-A da Lei nº 7.713, de 1988 (sujeitos a tributação exclusiva)
 
-***(Somente quando o grupo de RRA \<dmDev/infoRRA\> FOR PREENCHIDO no evento S-5002)***
+***(Somente quando o grupo de RRA \<infoRRA\> FOR PREENCHIDO no evento S-5002 ou S-2501)***
 
 ### 6.1 Número do processo: (especificar)
 
