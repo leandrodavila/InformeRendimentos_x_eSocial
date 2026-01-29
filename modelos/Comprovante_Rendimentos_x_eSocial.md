@@ -93,7 +93,7 @@ Este documento foi construído pela empresas de sofware participantes do GT-Pilo
 | Cenário | Mapeamento S-5002/S-2501 |
 |:--------|:--------------------------|
 | **S-5002: Tag consolidApurMen** | \<consolidApurMen/vlrRendTrib\> |
-| **S-5002: Tag infoIR/tpInfoIR SEM info de residente no exterior (dmDev/infoPgtoExt)** | \<infoIR/tpInfoIR\> = [11,13] |
+| **S-5002: Tag infoIR/tpInfoIR SEM info de residente no exterior (dmDev/infoPgtoExt)** | \<infoIR/tpInfoIR\> = [11] |
 | **S-5002: Tag infoIR/tpInfoIR COM info de residente no exterior (dmDev/infoPgtoExt)** | \<infoIR/tpInfoIR\> = [11,12,14,72,73,74,75,76,77,79,700,701,702,704] |
 | **S-2501** | \<infoIR/vrRendTrib\> se \<infoCRIRRF/tpCR\> <> [188951]|
 
